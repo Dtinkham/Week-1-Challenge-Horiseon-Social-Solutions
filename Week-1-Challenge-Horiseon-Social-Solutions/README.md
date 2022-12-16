@@ -7,4 +7,4 @@ Screenshots:
 ![Finished Website Pt.2](/FinishedImg/Week1Challenge.Pt2.jpg)
 
 
-Link to site: http://127.0.0.1:5555/index.html
+Link to site: file:///C:/Users/Dtink/bootcamp/Module%201%20Challenge/Week-1-Challenge-Horiseon-Social-Solutions/index.html
